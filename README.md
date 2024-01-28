@@ -1,2 +1,2 @@
 # kodi-living
-kpodi builder
+kodi builder
